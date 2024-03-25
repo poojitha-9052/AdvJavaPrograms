@@ -1,0 +1,6 @@
+127.0.0.1 - - [12/Feb/2024:18:15:42 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:15:43 +0530] "GET /RegisterApplication/RegisterServlet HTTP/1.1" 500 1284
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:15:43 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:15:50 +0530] "GET /RegisterApplication/Register.html HTTP/1.1" 200 1662
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:16:44 +0530] "GET /RegisterApplication/RegisterServlet?username=poojitha&password=poojitha123&mobile=907165413&email=poojitha%40gmail.com&gender=FEMALE&dob=2024-02-12&qualification=BTECH&country=India&languages=English&comments=wowwwwwwwwww HTTP/1.1" 200 339
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:28:27 +0530] "GET /RegisterApplication/RegisterServlet?username=poojitha&password=poojitha123&mobile=907165413&email=poojitha%40gmail.com&gender=FEMALE&dob=2024-02-12&qualification=BTECH&country=India&languages=English&comments=wowwwwwwwwww HTTP/1.1" 200 379

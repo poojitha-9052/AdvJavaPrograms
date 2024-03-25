@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Dollar To INR</title>
+</head>
+<body>
+<form>
+
+<label>Enter dallor</label>
+<input type="text" id="dollarInput"  onclick="convertToINR()" required>
+<br>
+
+<label>Enter INR</label>
+<input type="text" id="InrOutput" readonly>
+<br>
+
+</form>
+</body>
+</html>

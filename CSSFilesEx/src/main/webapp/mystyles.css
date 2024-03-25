@@ -1,0 +1,22 @@
+#heading
+{
+	color:deepppink;
+	text-align:center;
+	border:2px solid;
+	margin-top:25px;
+	margin-bottom:50px;
+	margin-left:50px;
+	margin-right:50px;
+	background-color:yellow;
+}
+.mydesign
+{
+	color:green;
+	border:5px dotted;
+	font-size:50px;
+	padding-top:25px;
+	padding-bottom:50px;
+	padding-left:50px;
+	padding-right:50px;
+	
+}

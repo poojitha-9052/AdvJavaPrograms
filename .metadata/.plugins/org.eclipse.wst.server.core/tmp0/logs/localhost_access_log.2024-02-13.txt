@@ -1,0 +1,4 @@
+127.0.0.1 - - [13/Feb/2024:11:22:11 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:11:22:15 +0530] "GET /RegisterApplication/RegisterServlet HTTP/1.1" 500 1284
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:11:22:15 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:11:22:22 +0530] "GET /RegisterApplication/Register.html HTTP/1.1" 200 1662

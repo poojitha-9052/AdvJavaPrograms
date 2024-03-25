@@ -1,0 +1,17 @@
+127.0.0.1 - - [13/Mar/2024:14:48:54 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:14:48:58 +0530] "GET /ProductManagementApplication/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:14:48:58 +0530] "GET /ProductManagementApplication/formvalidation.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:14:48:58 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:14:50:37 +0530] "POST /ProductManagementApplication/AddProductServlet HTTP/1.1" 500 8192
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:14:52:38 +0530] "POST /ProductManagementApplication/AddProductServlet HTTP/1.1" 200 3122
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:14:54:29 +0530] "POST /ProductManagementApplication/AddProductServlet HTTP/1.1" 200 3122
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:14:55:37 +0530] "POST /ProductManagementApplication/AddProductServlet HTTP/1.1" 200 3122
+127.0.0.1 - - [13/Mar/2024:15:09:15 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:15:10:25 +0530] "POST /ProductManagementApplication/AddProductServlet HTTP/1.1" 200 3122
+127.0.0.1 - - [13/Mar/2024:15:24:29 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:15:26:35 +0530] "POST /ProductManagementApplication/AddProductServlet HTTP/1.1" 200 3122
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:15:29:32 +0530] "POST /ProductManagementApplication/AddProductServlet HTTP/1.1" 200 3122
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:15:30:40 +0530] "POST /ProductManagementApplication/AddProductServlet HTTP/1.1" 200 3122
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:15:35:55 +0530] "POST /ProductManagementApplication/AddProductServlet HTTP/1.1" 200 3122
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:15:37:07 +0530] "POST /ProductManagementApplication/AddProductServlet HTTP/1.1" 200 3122
+0:0:0:0:0:0:0:1 - - [13/Mar/2024:15:38:42 +0530] "POST /ProductManagementApplication/AddProductServlet HTTP/1.1" 200 3122
